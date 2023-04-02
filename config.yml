@@ -3,6 +3,28 @@ languageCode: en-us
 title: Beyond the Abstractions
 theme: "PaperMod"
 
+params:
+    ShowShareButtons: true
+    ShowReadingTime: true
+    homeInfoParams:
+        Title: "Welcome"
+        Content: "\"If you want to know how something works, take it apart and try to put it back together again\""
+    socialIcons:
+      - name: github
+        url: 'https://github.com/shubhamsb25'
+      - name: linkedin
+        url: 'https://www.linkedin.com/in/shubhamsb25'
+      - name: stackoverflow
+        url: 'https://stackoverflow.com/users/7885581/shubham-singh-bhaisora'
+      - name: twitter
+        url: 'https://twitter.com/shubhamsb25'
+      - name: RSS
+        url: index.xml
+    editPost:
+        URL: "https://github.com/shubhamsb25/shubhamsb25.github.io/tree/master/content/"
+        Text: "Suggest Changes"
+        appendFilePath: true
+
 menu:
   main:
     - identifier: categories

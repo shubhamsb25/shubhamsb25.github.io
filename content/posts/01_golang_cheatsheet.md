@@ -6,8 +6,6 @@ tags: ["go","golang","cheatsheet"]
 categories: ["cheatsheet"]
 ---
 
-# Golang cheetsheet
-
 ## Hello world
 
 - main method needs to go in 'main' package 
@@ -168,8 +166,15 @@ Strings are immutable
 s := "hello world"
 hello := s[:5]
 world :=[6:]
-```
+``` 
 
 The variable s is kind of like pointers,it points to the memory location of string but it also keeps metadata like len of string.
 
 `s`, `hello` and `world` variables are pointing to the same string (hello and world point to substring of s)
+
+## Composite types
+
+- string
+- [4]int array
+- []int slice (variable length array)
+- map[string]int 

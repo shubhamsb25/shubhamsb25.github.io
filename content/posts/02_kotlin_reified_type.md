@@ -1,7 +1,7 @@
 ---
 title: "02_kotlin_reified_type"
 date: 2023-05-16T22:53:10+05:30
-draft: true
+draft: false
 ---
 
 # 1. Introduction
@@ -90,5 +90,4 @@ public class Box<T> {
 }
 ```
 
-# 5. 
 

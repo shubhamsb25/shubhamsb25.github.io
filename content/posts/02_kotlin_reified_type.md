@@ -2,6 +2,7 @@
 title: "Kotlin reified type"
 date: 2023-05-16T22:53:10+05:30
 draft: false
+tags: ["kotlin","generics"]
 ---
 
 # 1. Introduction

@@ -1,5 +1,5 @@
 ---
-title: "03_book_effective_java"
+title: "Effective java"
 date: 2023-07-24T08:34:01+05:30
 draft: false
 tags: ["java","book review"]
